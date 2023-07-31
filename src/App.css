@@ -1,0 +1,21 @@
+:root{
+  --background: #1B1D24;
+  --text: #ffffff;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: var(--background);
+  color: var(--text);
+}
+
+/* .swiper {
+  width: 100%;
+  height: 100%;
+} */
+
