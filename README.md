@@ -1,3 +1,3 @@
 # React + Vite
 https://bubbly-blendz.netlify.app/
-![cocktail](https://github.com/homersalazar/Bubbly-Blendz/assets/110954891/b209091e-0c2a-4a8e-acb5-dd356e558495)
+![cocktail](https://github.com/homersalazar/Bubbly-Blendz/assets/110954891/efe38441-a71f-4622-b4e0-c409c6d367b6)
